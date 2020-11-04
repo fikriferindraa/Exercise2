@@ -1,3 +1,4 @@
+package src;
 public class Biodata {
 	String name = "Fikri Putra Ferindra";
 
